@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  ApiLayerMVVM
+//
+//  Created by Егор Янкович on 1/27/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL = api.themoviedb.org
+API_KEY = 82afa448ed3225247effce574951e40a
